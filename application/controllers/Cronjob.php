@@ -31,7 +31,7 @@ class Cronjob extends MY_Controller{
 	{
 
 
-		// die();
+		die();
 		
 		//-----------------------------------------------------
 		//
