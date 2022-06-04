@@ -8,7 +8,7 @@ else{
 }?>
 
 <?php 
-
+// test
         $_SESSION['statement_buttons_token']=md5(session_id() . time());
 
 
