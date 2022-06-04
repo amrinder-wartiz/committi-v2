@@ -30,7 +30,7 @@ class Cronjob extends MY_Controller{
 	public function checkTierLimit()
 	{
 
-
+		//test changes
 		die();
 		
 		//-----------------------------------------------------
