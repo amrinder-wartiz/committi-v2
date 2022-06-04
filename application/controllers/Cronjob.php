@@ -32,6 +32,7 @@ class Cronjob extends MY_Controller{
 		die();
 		//new changes
 		//new changes23 uuid
+		//for new request
 		//-----------------------------------------------------
 		//
 		//	cron-job details: http://rs200.whb.tempwebhost.net/~dhrivum5/committi/Cronjob/checkTierLimit
