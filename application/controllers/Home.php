@@ -26,7 +26,7 @@ class Home extends CI_Controller {
 
         $this->load->library('email',$config);
 
-      ////////////////my comment
+      ////////////////my comment hello
     }
 ///////////////////////// HOME PAGE //////////////////////////////////////////////////
 	public function index()
