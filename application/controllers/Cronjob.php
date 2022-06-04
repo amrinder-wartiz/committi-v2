@@ -29,8 +29,13 @@ class Cronjob extends MY_Controller{
 	
 	public function checkTierLimit()
 	{
+
+		//test changes
+		// test changes again
 		die();
-		
+		//new changes
+		//new changes23 uuid
+		//for new request2
 		//-----------------------------------------------------
 		//
 		//	cron-job details: http://rs200.whb.tempwebhost.net/~dhrivum5/committi/Cronjob/checkTierLimit
